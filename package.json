@@ -17,7 +17,7 @@
     "nunjucks": "^3.0.1",
     "pg": "^2.11.2",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^4.4.3",
+    "sequelize": "^5.15.1",
     "swig": "^1.4.2"
   }
 }
